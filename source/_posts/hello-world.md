@@ -11,6 +11,8 @@ Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [docume
 $ hexo new "My New Post"
 ```
 
+{% qnimg a.jpg title:图片标题 alt:图片说明 'class:class1 class2' extend:?imageView2/2/w/600 %}
+
 More info: [Writing](https://hexo.io/docs/writing.html)
 
 ### Run server
